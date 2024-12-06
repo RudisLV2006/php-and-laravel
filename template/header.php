@@ -6,7 +6,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Hello</title>
+    <link rel="shortcut icon" href="./images/Favicon.png" type="image/png">
     <style type="text/css">
         a{
             font-size: 30px;
@@ -30,6 +31,10 @@
         }
         .container{
             height: 100px;
+        }
+        form{
+            margin: 20px auto;
+            
         }
     </style>
 </head>
