@@ -36,8 +36,8 @@
 <body>
     <nav>
         <div class="container">
-            <a href="#">Records</a>
-            <a class="record" href="#">Add record</a>
+            <a href="index.php">Records</a>
+            <a class="record" href="add.php">Add record</a>
         </div>
     </nav>
 </body>
